@@ -1,5 +1,5 @@
 # Local Chat Assistant
-Run a chat assistant locally (no internet connection required)
+Run a chat assistant locally (no internet connection required after model is pulled and serving)
 <br><br>
 
 
