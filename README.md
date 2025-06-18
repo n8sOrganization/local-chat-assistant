@@ -39,7 +39,7 @@ Run a chat assistant locally (no internet connection required after model is pul
   npm install lucide-react
 ```
 
-  Replace local src/App.jsx content with repo App.jsx code
+  * Replace local src/App.jsx content with repo App.jsx code
 
 #### Start the dev server
 ```bash
