@@ -46,4 +46,10 @@ Run a chat assistant locally (no internet connection required)
   npm run dev
 ```
 
+#### Access your chat assistant with your local browser
+```bash
+  http://127.0.0.1:11434
+```
+
+
 
