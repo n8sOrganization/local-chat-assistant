@@ -26,6 +26,10 @@ Run a chat assistant locally (no internet connection required after model is pul
   ollama run llama3.2:latest
 ```
 
+#### Instal node.js
+```bash
+brew install node
+```
 
 #### Create new project with Vite
 ```bash
