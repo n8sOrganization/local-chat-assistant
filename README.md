@@ -52,7 +52,7 @@ brew install node
 
 #### Access your chat assistant with your local browser
 ```bash
-  http://127.0.0.1:11434
+  http://127.0.0.1:5173
 ```
 
 
